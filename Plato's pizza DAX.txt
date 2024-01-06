@@ -1,0 +1,21 @@
+Data Analysis Expression (DAX)
+
+
+Measures
+
+average revenue = AVERAGE(order_details[Revenue])
+
+total_quantity = sum(order_details[quantity])
+
+total_revenue = sum(order_details[Revenue])
+
+
+Calculated Columns
+
+TimeofDaynum = IF(HOUR(orders[time]) < 12, "1",
+            IF(HOUR(orders[time]) < 17, "2", "3"))
+
+
+time of day = IF(orders[TimeofDaynum] = 1, "Morning",
+            IF(orders[TimeofDaynum] = 2, "Afternon", "Evening"))
+
