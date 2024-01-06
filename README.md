@@ -51,7 +51,7 @@ Auto model    |    Adjusted Model
 
 ## Analysis and Visualisations
 
-I created measures for total quantity sold, total revenue and average revenue and carried out other analysis displayed in the report below;
+I created measures for total quantity sold, total revenue and average revenue and carried out other analysis displayed in the report below. View DAX [here](Plato'spizzaDAX.txt)
 
 ![](PlatoPizzaAnalysis01.jpg)
 
