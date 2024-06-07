@@ -55,7 +55,7 @@ I created measures for total quantity sold, total revenue and average revenue an
 
 ![](PlatoPizzaAnalysis01.jpg)
 
-You can interact with the report [here](https://app.powerbi.com/groups/me/reports/80345dfa-b84d-4394-b514-a876b2ed51fd/ReportSectionc5264703a15260ad86da?experience=power-bi)
+You can interact with the report [here](https://app.powerbi.com/groups/me/reports/b78f18e2-7016-43c3-840f-f8cdc83a2c81/ReportSectionc5264703a15260ad86da?experience=power-bi)
 
 
 ## Insights ✨
